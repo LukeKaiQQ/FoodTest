@@ -1,5 +1,3 @@
-# FoodTest
-https://github.com/LukeKaiQQ/FoodTest.git
 # 功能
 ### 實作FoodApp
 #### 功能 1. 身分檢核
