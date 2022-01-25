@@ -2,8 +2,6 @@ package tw.com.fcb.foodTest;
 
 import java.util.*;
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 
 public class FoodServiceImpl implements FoodService{
 	Map<String, Food> foodsMap = new HashMap<String, Food>();
